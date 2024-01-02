@@ -1,0 +1,3 @@
+*.py
+.idea/**
+.ipynb_checkpoints/**
